@@ -1,8 +1,8 @@
 import { home } from './routes-components/home';
-import { registrar } from './routes-components/registrar';
+import { client } from './routes-components/client';
 
 export const routes = [
      ...home,
-     ...registrar
+     ...client
 ];
 

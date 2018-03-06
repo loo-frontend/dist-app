@@ -19,6 +19,6 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 # dist-app
 
 
-# Usage Vue js component generator
+## Usage Vue js component generator
 [docs for vue-generate-component](
 https://www.npmjs.com/package/vue-generate-component)
