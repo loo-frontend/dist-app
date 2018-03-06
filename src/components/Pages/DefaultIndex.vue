@@ -1,7 +1,10 @@
-<template>
+<template> 
   <div class="page-content">
     <div class="container-fluid">
       <div class="row">
+        <div>
+          Home
+        </div>
         <div class="col-xl-6">
           <div class="chart-statistic-box">
             <div class="chart-txt">

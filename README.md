@@ -17,3 +17,8 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # dist-app
+
+
+# Usage Vue js component generator
+[docs for vue-generate-component](
+https://www.npmjs.com/package/vue-generate-component)

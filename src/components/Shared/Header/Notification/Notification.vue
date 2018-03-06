@@ -1,7 +1,7 @@
 <template>
   <span>
-    <notification-notif></notification-notif>
-    <notification-messages></notification-messages>
+    <notification-notif />
+    <notification-messages />
   </span>
 </template>
 <script>
