@@ -1,4 +1,4 @@
-<template src="./Client.component.html" keep-alive></template>
-<script src="./Client.component.js"></script>
-<style src="./Client.component.scss" scoped lang="scss"></style>
+<template src="./Home.component.html"></template>
+<script src="./Home.component.js"></script>
+<style src="./Home.component.scss" scoped lang="scss"></style>
 
