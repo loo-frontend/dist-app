@@ -1,4 +1,4 @@
-import Home from '../components/pages/home';
+import Home from '../components/Pages/Home';
 
 export const home = [
     {

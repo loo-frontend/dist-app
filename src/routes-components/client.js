@@ -1,4 +1,4 @@
-import Client from '../components/pages/client';
+import Client from '../components/Pages/Client';
 
 export const client = [
     {
